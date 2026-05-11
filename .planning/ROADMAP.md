@@ -7,7 +7,7 @@ A 24-hour hackathon execution plan for building the end-to-end RAKSHAK.AI platfo
 ## Phases
 
 - [x] **Phase 1: Infrastructure Setup** - All services connected, skeleton running end-to-end.
-- [ ] **Phase 2: AI Pipeline** - Full AI dispatch loop working — voice/text in, structured incident out.
+- [x] **Phase 2: AI Pipeline** - Full AI dispatch loop working — voice/text in, structured incident out.
 - [ ] **Phase 3: Admin Dashboard & 3D Map** - Full admin UI with live map, incident management, and PDF generation.
 - [ ] **Phase 4: Testing, Polish & Pitch Prep** - Demo-ready, zero crashes, compelling pitch narrative.
 
@@ -36,7 +36,7 @@ Plans:
 **Plans**: 1 plan
 
 Plans:
-- [ ] 02-01: Implement Twilio webhooks, Whisper, GPT-4o and DB insertion logic
+- [x] 02-01: Implement Twilio webhooks, Whisper, GPT-4o and DB insertion logic
 
 ### Phase 3: Admin Dashboard & 3D Map
 **Goal**: Full admin UI with live map, incident management, and PDF generation.
@@ -72,6 +72,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Infrastructure Setup | 1/1 | Completed | 2026-05-11 |
-| 2. AI Pipeline | 0/1 | Not started | - |
+| 2. AI Pipeline | 1/1 | Completed | 2026-05-11 |
 | 3. Admin Dashboard & 3D Map | 0/2 | Not started | - |
 | 4. Testing, Polish & Pitch Prep | 0/1 | Not started | - |
